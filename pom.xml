@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>sai first release snapshot</name>
-	      <url>3.238.157.195:8081/repository/maven-snapshot/</url>
+	      <url>http://3.238.157.195:8081/repository/maven-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
